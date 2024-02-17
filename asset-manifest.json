@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Footwear-E-commerce/static/css/main.ff0d48a3.css",
+    "main.js": "/Footwear-E-commerce/static/js/main.88eb0ffa.js",
+    "index.html": "/Footwear-E-commerce/index.html",
+    "main.ff0d48a3.css.map": "/Footwear-E-commerce/static/css/main.ff0d48a3.css.map",
+    "main.88eb0ffa.js.map": "/Footwear-E-commerce/static/js/main.88eb0ffa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff0d48a3.css",
+    "static/js/main.88eb0ffa.js"
+  ]
+}
